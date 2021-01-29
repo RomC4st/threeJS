@@ -1,5 +1,5 @@
 import _ from 'lodash';
-
+import './scss/index.scss';
 
 import Stats from './jsm/libs/stats.module.js';
 
